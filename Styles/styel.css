@@ -1,0 +1,114 @@
+body{
+    
+    margin: 0px;
+    padding: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+/* ............................MAIN......................... */
+.main_1001{
+    width: 1349px;
+    min-height: 850px;
+}
+
+
+/* ............................NAVBAR......................... */
+.navbar_1001{
+    height: 70px;
+}
+
+.navbar_1001 h1{
+    color: rgb(56, 67, 78);
+    margin: 0px;
+    margin-top: 16px;
+    margin-left: 5%;
+    float: left;
+}
+
+.navbar_1001 h1 span{
+    font-weight: lighter;
+}
+
+.navbar_1001 ul{
+    height: 100%;
+    margin: 0px;
+    margin-left: 450px;
+    padding: 25px;
+    box-sizing: border-box;
+    float: left;
+}
+
+.navbar_1001 ul li{
+    margin-left: 25px;
+    list-style-type: none;
+    float: left;
+}
+
+.navbar_1001 ul li a{
+    color: rgb(56, 67, 78);
+    height: 100%;
+    width: 100%;
+    text-decoration: none;
+}
+
+.navbar_1001 ul li a:hover{
+    text-decoration: underline;
+}
+/* .........END........ */
+
+/* ............................IMAGE......................... */
+.image_1001{
+    background-image: url(../Images/1635961157736.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 400px;
+    padding-top: 7%;
+    text-align: center;
+    box-sizing: border-box;
+}
+
+.image_1001 h1{
+    color: white;
+    font-size: 50px;
+    font-weight: bolder;
+}
+
+.image_1001 h1 span{
+    font-family: Bahnschrift Light;
+    font-weight: 100;
+}
+/* .........END........ */
+
+/* ............................FOOTER.......................... */
+.footer_1001{
+    text-align: center;
+}
+
+.footer_1001 h1{
+    color: rgb(56, 67, 78);
+    /* float: left; */
+}
+
+.footer_1001 h1 span{
+    font-weight: 100;
+}
+
+.footer_1001 div img{
+    height: 100px;
+    border-radius: 50%;
+}
+
+.footer_1001 div{
+    min-height: 300px;
+    width: 23%;
+    margin-left: 20px;
+    padding: 10px;
+    box-sizing: border-box;
+    float: left;
+}
+
+.footer_1001 div p{
+    text-align: left;
+}
+/* .........END........ */
